@@ -18,6 +18,7 @@ public class App extends Application {
             stage.setScene(new Scene(root, 600, 400));
             stage.show();
         } catch (IOException e) {
+            //test commit
             e.printStackTrace();
         }
     }
