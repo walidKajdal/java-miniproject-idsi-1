@@ -17,6 +17,7 @@ public class App extends Application {
             stage.setTitle("Weather Data");
             stage.setScene(new Scene(root, 600, 400));
             stage.show();
+            //test 2
         } catch (IOException e) {
             //test commit
             e.printStackTrace();
